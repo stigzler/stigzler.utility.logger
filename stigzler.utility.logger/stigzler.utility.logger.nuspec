@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>stigzler.utility.logger</id>
+    <version>1.0.0</version>
+    <title>StigzlerLogger</title>
+    <authors>stigzler</authors>
+    <owners>stigzler</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Logging class. Log user system specs, info and errors to a text file</description>
+    <releaseNotes>Initial Release</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>log logger</tags>
+  </metadata>
+</package>

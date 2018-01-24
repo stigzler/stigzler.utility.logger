@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="stigzler.utility.logger.Log">
+    <Position X="0.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QCIAAAAAAAAEwJQgAABAACAAAAgAwAoIBAgEAEgGAEA=</HashCode>
+      <FileName>logger.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="stigzler.utility.logger.LogType">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>logger.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="stigzler.utility.logger.Info">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAKCAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>logger.vb</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
